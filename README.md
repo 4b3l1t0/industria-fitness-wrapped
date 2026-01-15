@@ -573,7 +573,7 @@
     <section class="screen active" id="screenLogin" aria-label="Login">
       <div class="content">
 
-        <div class="topbar" style="margin-top:20px">
+        <div class="topbar" style="margin-top:40px">
           <!-- <div class="topbar"> -->
           <div class="brand">
             <div class="logo" aria-hidden="true">
