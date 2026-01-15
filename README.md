@@ -647,7 +647,7 @@
 
     <!-- Screen 2: Loading -->
     <section class="screen" id="screenLoading" aria-label="Loading">
-      <div class="topbar">
+      <div class="topbar" style="margin-top:40px">
         <div class="brand">
           <div class="logo" aria-hidden="true">
             <img src="./IMG-20250126-WA0079.jpg">
@@ -675,7 +675,7 @@
 
     <!-- Screen 3: Wrapped (slides) -->
     <section class="screen" id="screenWrapped" aria-label="Wrapped">
-      <div class="topbar">
+      <div class="topbar" style="margin-top:40px">
         <div class="brand">
           <div class="logo" aria-hidden="true">
             <img src="./IMG-20250126-WA0079.jpg">
@@ -703,7 +703,7 @@
 
     <!-- Screen 4: Final image generation -->
     <section class="screen" id="screenImage" aria-label="Generar imagen">
-      <div class="topbar">
+      <div class="topbar" style="margin-top:40px">
         <div class="brand">
           <div class="logo" aria-hidden="true">
             <img src="./IMG-20250126-WA0079.jpg">
