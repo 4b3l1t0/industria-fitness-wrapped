@@ -1,3 +1,4 @@
+<!doctype html>
 <html lang="es">
 
 <head>
@@ -5,6 +6,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Industria Fitness — Gym Wrapped 2025</title>
   <style>
+    /*
+      Industria Fitness — Gym Wrapped 2025
+      Single-file static HTML (CSS + JS embedded) — no frameworks, no external libs.
+      Mobile-first 9:16 story-like experience.
+    */
 
     :root {
       --bg: #070707;
@@ -567,7 +573,7 @@
     <section class="screen active" id="screenLogin" aria-label="Login">
       <div class="content">
 
-        <div class="topbar" style="margin-top:40px">
+        <div class="topbar" style="margin-top:5px">
           <!-- <div class="topbar"> -->
           <div class="brand">
             <div class="logo" aria-hidden="true">
@@ -641,7 +647,7 @@
 
     <!-- Screen 2: Loading -->
     <section class="screen" id="screenLoading" aria-label="Loading">
-      <div class="topbar" style="margin-top:40px">
+      <div class="topbar" style="margin-top:5px">
         <div class="brand">
           <div class="logo" aria-hidden="true">
             <img src="./IMG-20250126-WA0079.jpg">
@@ -669,7 +675,7 @@
 
     <!-- Screen 3: Wrapped (slides) -->
     <section class="screen" id="screenWrapped" aria-label="Wrapped">
-      <div class="topbar" style="margin-top:40px">
+      <div class="topbar" style="margin-top:5px">
         <div class="brand">
           <div class="logo" aria-hidden="true">
             <img src="./IMG-20250126-WA0079.jpg">
@@ -697,7 +703,7 @@
 
     <!-- Screen 4: Final image generation -->
     <section class="screen" id="screenImage" aria-label="Generar imagen">
-      <div class="topbar" style="margin-top:40px">
+      <div class="topbar" style="margin-top:5px">
         <div class="brand">
           <div class="logo" aria-hidden="true">
             <img src="./IMG-20250126-WA0079.jpg">
