@@ -131,7 +131,6 @@
       display: grid;
       place-items: center;
       box-shadow: 0 10px 24px rgba(255, 212, 0, .10);
-      margin-right: 20px;
     }
 
     /* .logo svg {
@@ -663,7 +662,7 @@
             <p>Preparando tu wrapped…</p>
           </div>
         </div>
-        <div class="pill"><span>ID</span><b id="pillId">—</b></div>
+        <div class="pill"><b id="pillId">—</b></div>
       </div>
 
       <div class="loadingWrap">
@@ -691,7 +690,7 @@
             <p id="headerSub">Gym Wrapped 2025</p>
           </div>
         </div>
-        <div class="pill"><span>ID</span><b id="headerId">—</b></div>
+        <div class="pill"><b id="headerId">—</b></div>
       </div>
 
       <div class="content">
@@ -719,7 +718,7 @@
             <p>Imagen 9:16 lista para Stories</p>
           </div>
         </div>
-        <div class="pill"><span>Nivel</span><b id="headerLevel">—</b></div>
+        <!-- <div class="pill"><span>Nivel</span><b id="headerLevel">—</b></div> -->
       </div>
 
       <div class="content">
@@ -1028,7 +1027,7 @@
 
       $("#headerId").textContent = String(c.idcliente);
       $("#headerSub").textContent = `Gym Wrapped 2025`;
-      $("#headerLevel").textContent = lvl;
+      //$("#headerLevel").textContent = lvl;
 
       const slides = [];
 
